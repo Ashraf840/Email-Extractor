@@ -8,9 +8,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-user = os.environ.get('USER')
+email_address = os.environ.get('EMAIL_ADDRESS')
 password = os.environ.get('PASSWORD')
 imap_url = os.environ.get('IMAP_URL')
+
+# print("Email Address:", email_address)
+# print("password:", password)
+# print("imap_url:", imap_url)
+
 
 def get_body(msg):
     if msg.is_multipart():
@@ -19,12 +24,13 @@ def get_body(msg):
         return msg.get_payload(None, True)
 
 conn = imaplib.IMAP4_SSL(imap_url)
-conn.login(user, password)
+conn.login(email_address, password)
 conn.select('INBOX')
 
 
 lastDayDateTime = dt.datetime.now() - dt.timedelta(days=1)
 dates = lastDayDateTime.strftime('%d-%b-%Y')
+print("Latest Date:", dates)
 
 resp, items = conn.uid('search', None, f'(SENTSINCE {dates})')  # resp="OK", "items" is collection of email uids
 
