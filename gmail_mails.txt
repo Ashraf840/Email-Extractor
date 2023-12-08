@@ -1,191 +1,4 @@
 Email no: 1 
-Date: Tue, 05 Dec 2023 19:11:45 +0000
-From: "Workona" <welcome@workona.com>
-Subject: Tip 2: Save anything in the cloud
-
-Content: 
-https://workona.com/0/
-
-https://workona.com/0/
-
-By now, your tabs are nicely organized. But what about the other details that make up your projects?
-It's simple: save them as a resource, task, or note.
-1. How to save resources
-You can save important tabs and docs as resources to make them easier to access. To do so, open a space and click the “+” button in the “Resources” view.  
-
-https://workona.com/0/ 
-2. How to add tasks & notes
-Click the “Tasks” or “Notes” view at the top of a space to add to-dos or important project info.  
-
-https://workona.com/0/ 
-If you need inspiration, check out these [space examples →](https://workona.com/templates/)
-
-[Go to Workona](https://workona.com/0/)
-
-https://workona.com/0/
-
-You received this email because you signed up for [Workona](https://workona.com), an app that helps you organize your work in the browser. To stop receiving these emails, [unsubscribe](https://r.s2.email.workona.com/tr/un/KYeUfsahcjQtBX8wMZpzr43u163EEyU0FGUfjW6nMRDJaLCQ-UX9VfoelLyPb5bBW-miQ0-pnMzv0CDOzOk4XWBn1PAh6gcp9aHGPwzZHCz4OoQF_nJP9XmPtL9y41da0ceZ-5bVB4b4rcD03hRVg_deH4phEsJicZH8NcDs15g4nRlHMPw6QKF7F7CjCYOxjfyC-vewFmaz5WZZGgeNbrB0jkebt8ujJWdimpBcIMOjrq7ZFRN6hYHo7hgdgqLXCxRkuyxkJCsbi3mO3UUxPDa5ZuJdvrx0CfgC).
-© Workona Inc. 2261 Market Street #4455, San Francisco, CA 94114.
-
-
-
-
-
-
-
-
-
-
-
-
-Email no: 2 
-Date: Wed, 06 Dec 2023 01:30:00 +0000 (UTC)
-From: Medium Daily Digest <noreply@medium.com>
-Subject: Where The Pendulum May Swing | Jillian Enright in neurodiversified
-
-Content: 
-Stories for Tanjim Ashraf
-@tanjim.ashraf.doer.bp (https://medium.com/@tanjim.ashraf.doer.bp?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Become a member (https://medium.com/plans?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-
-Today's highlights
-
-Jillian Enright (https://medium.com/@twoemb?source=email-bd8b9bcb0b83-1701808500346-digest.reader-e6dfd2ec5334-0db0e3055cfe----0-108------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in neurodiversified (https://medium.com/neurodiversified?source=email-bd8b9bcb0b83-1701808500346-digest.reader-e6dfd2ec5334-0db0e3055cfe----0-108------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-Where The Pendulum May Swing
-
-When change is difficult, but we want to do it anyway
-
-John Raines (https://medium.com/@johndanielraines?source=email-bd8b9bcb0b83-1701808500346-digest.reader--c58fe28d0c88----1-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·10 min read
-
-Be an Engineer, not a Frameworker
-
-Time to level up.
-
-Ashutosh singh (https://medium.com/@ashutoshsinghrkt?source=email-bd8b9bcb0b83-1701808500346-digest.reader-78073def27b8-2b4fce773f4e----2-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in Python in Plain English (https://medium.com/python-in-plain-english?source=email-bd8b9bcb0b83-1701808500346-digest.reader-78073def27b8-2b4fce773f4e----2-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·7 min read
-
-Master Django ORM Advanced Concepts
-
-Learn to write efficient and fast Django queries. These concepts will make you a better Django developer
-
-Blup (https://medium.com/@sahaj.blup?source=email-bd8b9bcb0b83-1701808500346-digest.reader--c27fd21fdad9----3-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·14 min read
-
-Top 12 Flutter Open source projects
-
-12 Incredible Flutter Open Source Projects for Your Next Business App
-
-Andrew Zuo (https://medium.com/@impure?source=email-bd8b9bcb0b83-1701808500346-digest.reader--4bbdf4eeb86c----4-99------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-Another Idiot Boldly Proclaims That They Can't Solve A Basic Programming…
-
-90% Of Our Engineers Use The Software You Wrote, But You Can't Invert A Binary Tree On A Whiteboard So Fuck…
-
-Olga (https://medium.com/@oshiryaeva?source=email-bd8b9bcb0b83-1701808500346-digest.reader--e46f65db062f----5-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-Offset vs Cursor-Based Pagination: Which is the Right Choice for Your Project?
-
-Pagination is a way to prevent your browser from crashing or giving users a bad experience when dealing with…
-
-Robert-Jan Kuyper (https://medium.com/@datails?source=email-bd8b9bcb0b83-1701808500346-digest.reader-d0b105d10f0a-d51aea04f267----6-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in Better Programming (https://medium.com/better-programming?source=email-bd8b9bcb0b83-1701808500346-digest.reader-d0b105d10f0a-d51aea04f267----6-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-NestJS: The Good, The Bad, and The Ugly
-
-Would you choose NestJS for the next project?
-
-Oyinade (https://medium.com/@oyinade?source=email-bd8b9bcb0b83-1701808500346-digest.reader--5cfc217988a8----7-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·3 min read
-
-Stop Telling People Everything
-
-My experience 
-
-Mohamed Amine HAINE (https://medium.com/@mohamed.amine.haine?source=email-bd8b9bcb0b83-1701808500346-digest.reader-4b3a1ed4f11c-2742b51cf97b----8-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in JavaScript in Plain English (https://medium.com/javascript-in-plain-english?source=email-bd8b9bcb0b83-1701808500346-digest.reader-4b3a1ed4f11c-2742b51cf97b----8-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·4 min read
-
-Stop Using Try Catch and Use this Instead
-
-As coders, our job is to write a code that works. It's fine, but it's not enough.
-
-XSron Hou (https://medium.com/@xsronhou?source=email-bd8b9bcb0b83-1701808500346-digest.reader-dd347d5c5a2b-c143443a4f2a----9-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in Cloud Native Daily (https://medium.com/cloud-native-daily?source=email-bd8b9bcb0b83-1701808500346-digest.reader-dd347d5c5a2b-c143443a4f2a----9-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·4 min read
-
-10 Microservice Patterns Software Engineers Should Know
-
-A brief introduction to Circuit Breaker, API Gateway, BFF, Saga, CQRS, Event-Driven and more.
-
-Noha Nabil (https://medium.com/@nohanabil?source=email-bd8b9bcb0b83-1701808500346-digest.reader--7af238cc8505----10-98------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·6 min read
-
-Building a Multilingual Static Website: A Step-by-Step Guide
-
-A multilingual website is a website that offers content in more than one language. This can be a great way to…
-
-MargaretEfron (https://medium.com/@margaretefron?source=email-bd8b9bcb0b83-1701808500346-digest.reader-eec44e936bf1-3bdef1f2c6f----11-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in Learning Data (https://medium.com/learning-data?source=email-bd8b9bcb0b83-1701808500346-digest.reader-eec44e936bf1-3bdef1f2c6f----11-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-5 Things I Wish I Knew Before My First Job as a Data Analyst
-
-I'm five months into my first Data Analyst job, and there are many surprises I wish someone had warned me…
-
-David Goudet (https://medium.com/@davidgoudet?source=email-bd8b9bcb0b83-1701808500346-digest.reader--c77fe5a0bc9----12-109------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·5 min read
-
-This is Why I Didn't Accept You as a Senior Software Engineer
-
-An Alarming Trend in The Software Industry
-
-fatfish (https://medium.com/@fatfish?source=email-bd8b9bcb0b83-1701808500346-digest.reader--c30983c61501----13-109------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·3 min read
-
-Interviewer: Can sessionStorage Share Data Between Multiple Tabs?
-
-The question that most front-end developers don't know the answer
-
-Jacob Bennett (https://medium.com/@jacobistyping?source=email-bd8b9bcb0b83-1701808500346-digest.reader-5517fd7b58a6-ef6d741c898e----14-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
- in Level Up Coding (https://medium.com/gitconnected?source=email-bd8b9bcb0b83-1701808500346-digest.reader-5517fd7b58a6-ef6d741c898e----14-102------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d-1)
-·4 min read
-
-Use Git like a senior engineer
-
-Git is a powerful tool that feels great to use when you know how to use it.
-
-See more of what you like and less of what you don't.
-Control your recommendations (https://medium.com/me/missioncontrol?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-
-Read from anywhere.
-
-Sent by Medium (https://medium.com/?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
-Unsubscribe (https://medium.com/me/email-settings/bd8b9bcb0b83/7829205d59cd?type=social&source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
- from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/bd8b9bcb0b83/7829205d59cd?type=social&preference=2&source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Help Center (https://help.medium.com/hc/en-us?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-bd8b9bcb0b83-1701808500346-digest.reader-------------------------3da287bf_6b86_4c7e_87f4_35a1cf24608d)
-
-
-
-
-
-
-
-
-
-
-Email no: 3 
 Date: Wed, 06 Dec 2023 19:11:50 +0000
 From: "Workona" <welcome@workona.com>
 Subject: Tip 3: Move faster with collaboration
@@ -228,7 +41,7 @@ You received this email because you signed up for [Workona](https://workona.com)
 
 
 
-Email no: 4 
+Email no: 2 
 Date: Thu, 07 Dec 2023 01:30:00 +0000 (UTC)
 From: Medium Daily Digest <noreply@medium.com>
 Subject: Why 95% of Developers Are =?UTF-8?B?VXNpbmfCoC5ORVQ=?= Wrong | Alex
@@ -370,6 +183,344 @@ Unsubscribe (https://medium.com/me/email-settings/bd8b9bcb0b83/b53c3e55d0ed?type
 ·Help Center (https://help.medium.com/hc/en-us?source=email-bd8b9bcb0b83-1701894997036-digest.reader-------------------------d7151127_6100_4912_93c7_1e7c392451bc)
 ·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-bd8b9bcb0b83-1701894997036-digest.reader-------------------------d7151127_6100_4912_93c7_1e7c392451bc)
 ·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-bd8b9bcb0b83-1701894997036-digest.reader-------------------------d7151127_6100_4912_93c7_1e7c392451bc)
+
+
+
+
+
+
+
+
+
+
+Email no: 3 
+Date: Thu, 7 Dec 2023 13:01:23 -0500 (EST)
+From: New Scientist Weekly <newsletter@e.newscientist.com>
+Subject: How bad is vaping for your health?
+
+Content: 
+The truth about the long-term effects<a href="https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9uZXdzY2llbnRpc3QuY29tIj91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aB3dbdf828><img src="https://link.newscientist.com/img/650341d3fb71d143ed05b48ak0hys.8a6e/6383b057.gif" alt="" border="0" /></a>
+
+New Scientist logo
+
+Weekly Newsletter
+
+In this week’s issue
+
+How bad is vaping? <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY1MTQtaG93LWJhZC1pcy12YXBpbmctZm9yLXlvdXItaGVhbHRoLXdlcmUtZmluYWxseS1nZXR0aW5nLWFuc3dlcnMvP3V0bV9zb3VyY2U9bnNuZXc/650341d3fb71d143ed05b48aDc7b1b0d4>
+
+As more of us take up vaping and concerns rise about the long-term effects, we now have enough data to get a grip on the health impact – and how it compares to smoking. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY1MTQtaG93LWJhZC1pcy12YXBpbmctZm9yLXlvdXItaGVhbHRoLXdlcmUtZmluYWxseS1nZXR0aW5nLWFuc3dlcnMvP3V0bV9zb3VyY2U9bnNuZXc/650341d3fb71d143ed05b48aEc7b1b0d4>
+
+Societal collapse <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY0Nzctd2h5LXJlcG9ydHMtdGhhdC13ZXN0ZXJuLWNpdmlsaXNhdGlvbi13aWxsLXNvb24tY29sbGFwc2UtYXJlLXByZW1hdHVyZS8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aD29b174c9>
+
+A scientific analysis of history reveals that societies are becoming more resilient to collapse – and shows how to successfully navigate crises, says complexity scientist Peter Turchin. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY0Nzctd2h5LXJlcG9ydHMtdGhhdC13ZXN0ZXJuLWNpdmlsaXNhdGlvbi13aWxsLXNvb24tY29sbGFwc2UtYXJlLXByZW1hdHVyZS8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aE29b174c9>
+
+New Scientist magazine cover <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9pc3N1ZS8zNDY4Lz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aC7d364d73> 
+
+ 
+Like what you see? Subscribe today to gain unlimited access to all our subscriber only content.
+
+Subscribe <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9zdWJzY3JpcHRpb24ubmV3c2NpZW50aXN0LmNvbS9wYWNrYWdlcy9jaHJpc3RtYXMyMDIzP3Byb21Db2RlPTIwODI1JTJDMjA1NjkmcGFja2FnZUNvZGVzPVRBUCZvZmZlckNvZGVzPTZNJTJDNTFJJnNraXBUZXJtcz02TSUyQzUxSSZlc3NlbnRpYWxHdWlkZVByb21Db2RlPTkwMDUwJnV0bV9jb250ZW50PW5ld3NsZXR0ZXJhZCZ1dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aG806a9702> 
+
+ 
+
+This week’s top news stories
+
+<https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDU3ODktaWJtcy1jb25kb3ItcXVhbnR1bS1jb21wdXRlci1oYXMtbW9yZS10aGFuLTEwMDAtcXViaXRzLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aE6448692e>
+Ryan Lavine for IBM
+
+IBM’s 'Condor' quantum computer has more than 1000 qubits <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDU3ODktaWJtcy1jb25kb3ItcXVhbnR1bS1jb21wdXRlci1oYXMtbW9yZS10aGFuLTEwMDAtcXViaXRzLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aF6448692e>
+
+IBM has revealed two quantum computers. One is the second largest ever made and the other produces fewer errors than any quantum computer the company has built so far. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDU3ODktaWJtcy1jb25kb3ItcXVhbnR1bS1jb21wdXRlci1oYXMtbW9yZS10aGFuLTEwMDAtcXViaXRzLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aG6448692e>
+
+Ultrasound can push vaccines into the body without needles <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDU4NjgtdWx0cmFzb3VuZC1jYW4tcHVzaC12YWNjaW5lcy1pbnRvLXRoZS1ib2R5LXdpdGhvdXQtbmVlZGxlcy8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aDf304ec5a>
+
+Vaccinations could be made less painful by treating skin with a vaccine-laden liquid and using ultrasound to push it into the body. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDU4NjgtdWx0cmFzb3VuZC1jYW4tcHVzaC12YWNjaW5lcy1pbnRvLXRoZS1ib2R5LXdpdGhvdXQtbmVlZGxlcy8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aEf304ec5a>
+
+Brain implant could ease the effects of a traumatic injury years later <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYyNTUtYnJhaW4taW1wbGFudC1jb3VsZC1lYXNlLXRoZS1lZmZlY3RzLW9mLWEtdHJhdW1hdGljLWluanVyeS15ZWFycy1sYXRlci8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aD86748fe9>
+
+A device that was implanted into the brains of people with traumatic brain injuries substantially improved their cognitive function a year later, a small study suggests. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYyNTUtYnJhaW4taW1wbGFudC1jb3VsZC1lYXNlLXRoZS1lZmZlY3RzLW9mLWEtdHJhdW1hdGljLWluanVyeS15ZWFycy1sYXRlci8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aE86748fe9>
+
+ 
+
+Sponsored by: ITN Business
+
+ITN Business. Image links to the article. <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9zZWN0aW9uL3N0ZW0tYWNjZXNzLWZvci1hbGwvP3V0bV9jb250ZW50PW5ld3NsZXR0ZXJhZCZ1dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aEd32f690f>
+STEM: Access for all
+
+In ITN Business’ news-style programme ‘STEM: Access for All’, Dr Anne-Marie Imafidon MBE discusses the importance of diversity and accessibility, and how STEM skills are key to maintaining a workforce fit for the future.
+
+Find out more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9zZWN0aW9uL3N0ZW0tYWNjZXNzLWZvci1hbGwvP3V0bV9jb250ZW50PW5ld3NsZXR0ZXJhZCZ1dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aFd32f690f>
+
+ 
+
+New Scientist podcast
+
+Teaching science through cooking
+
+In this episode of CultureLab, scientist Pia Sörensen explains how understanding chemistry and biology can help us to make the perfect cheese sauce, offers up a masterclass in fermentation and teaches us what insects have to do with why your avocado goes brown.
+
+Plus: Our weekly round-up show now drops every Friday.
+
+Subscribe on Apple <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vZ2IvcG9kY2FzdC9uZXctc2NpZW50aXN0LXdlZWtseS9pZDE0OTY4NDc3OTE_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aCb9a9d584>, Spotify <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3Nob3cvN3hOMG9iTzd5NUFSMjB2MktUN1RCcD91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aC61cc316d> or other podcast apps <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9wb2RjYXN0cy8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aC3a2216d2>.
+
+ 
+
+This week's most popular stories
+
+<https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYyMjktdGhlLXJvYm90aWNpc3Qtd2hvLXdhbnRzLXRvLWJyaW5nLWFpLWludG8tY29udGFjdC13aXRoLXRoZS1yZWFsLXdvcmxkLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aE433312f9>
+Klawe Rzeczy
+
+The roboticist who wants to bring AI into contact with the real world <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYyMjktdGhlLXJvYm90aWNpc3Qtd2hvLXdhbnRzLXRvLWJyaW5nLWFpLWludG8tY29udGFjdC13aXRoLXRoZS1yZWFsLXdvcmxkLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aF433312f9>
+
+Artificial intelligence may never reach its full potential without a body to interact with the physical world. Roboticist Josh Bongard says that the push for “embodied AI” is suggesting a rethink of what it means to design intelligent robots. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYyMjktdGhlLXJvYm90aWNpc3Qtd2hvLXdhbnRzLXRvLWJyaW5nLWFpLWludG8tY29udGFjdC13aXRoLXRoZS1yZWFsLXdvcmxkLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aG433312f9>
+
+Google says its Gemini AI outperforms both GPT-4 and expert humans <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY3NDYtZ29vZ2xlLXNheXMtaXRzLWdlbWluaS1haS1vdXRwZXJmb3Jtcy1ib3RoLWdwdC00LWFuZC1leHBlcnQtaHVtYW5zLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aD0e8e0629>
+
+The Gemini artificial intelligence comes in a variety of sizes, with Google saying its mid-range version will be incorporated into its Bard chatbot and available to the public from today. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDY3NDYtZ29vZ2xlLXNheXMtaXRzLWdlbWluaS1haS1vdXRwZXJmb3Jtcy1ib3RoLWdwdC00LWFuZC1leHBlcnQtaHVtYW5zLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aE0e8e0629>
+
+The best films about artificial intelligence according to an expert <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDcxODgtdGhlLXRvcC10ZW4tZmlsbXMtYWJvdXQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWNjb3JkaW5nLXRvLWFuLWV4cGVydC8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aCd4597ffb>
+
+From Wall-E to Short Circuit via I, Robot, these are the best films out there about AI, says Alan Turing Institute ethics fellow Mhairi Aitken. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDcxODgtdGhlLXRvcC10ZW4tZmlsbXMtYWJvdXQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWNjb3JkaW5nLXRvLWFuLWV4cGVydD91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aC02a77c67>
+
+
+
+This week's free premium article
+
+As a registered user you have free access to this subscriber-only article. Simply log in to your account <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9sb2dpbi8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aCfe08db5b> to start reading.
+
+
+
+Pregnant megamouth shark washed up on beach is first ever seen <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYzNTEtcHJlZ25hbnQtbWVnYW1vdXRoLXNoYXJrLXdhc2hlZC11cC1vbi1iZWFjaC1pcy1maXJzdC1ldmVyLXNlZW4vP3V0bV9zb3VyY2U9bnNuZXc/650341d3fb71d143ed05b48aDd72ea1fa>
+
+A female megamouth shark was found in the Philippines with one pup alongside her and six fetuses inside her body. Read more <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzI0MDYzNTEtcHJlZ25hbnQtbWVnYW1vdXRoLXNoYXJrLXdhc2hlZC11cC1vbi1iZWFjaC1pcy1maXJzdC1ldmVyLXNlZW4vP3V0bV9zb3VyY2U9bnNuZXc/650341d3fb71d143ed05b48aEd72ea1fa>
+
+  
+
+New Scientist subscriptions
+
+See the world more clearly. Image links to offer. <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9zdWJzY3JpcHRpb24ubmV3c2NpZW50aXN0LmNvbS9wYWNrYWdlcy9jaHJpc3RtYXMyMDIzP3Byb21Db2RlPTIwODI1JTJDMjA1NjkmcGFja2FnZUNvZGVzPVRBUCZvZmZlckNvZGVzPTZNJTJDNTFJJnNraXBUZXJtcz02TSUyQzUxSSZlc3NlbnRpYWxHdWlkZVByb21Db2RlPTkwMDUwJnV0bV9jb250ZW50PW5ld3NsZXR0ZXJhZCZ1dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aH806a9702>
+To make their nighttime journeys, reindeer have evolved the ability to shift their eye colour as the seasons change to see better in the dark. Read about this and other wonders of the natural world with a New Scientist subscription.
+
+Subscribe now <https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly9zdWJzY3JpcHRpb24ubmV3c2NpZW50aXN0LmNvbS9wYWNrYWdlcy9jaHJpc3RtYXMyMDIzP3Byb21Db2RlPTIwODI1JTJDMjA1NjkmcGFja2FnZUNvZGVzPVRBUCZvZmZlckNvZGVzPTZNJTJDNTFJJnNraXBUZXJtcz02TSUyQzUxSSZlc3NlbnRpYWxHdWlkZVByb21Db2RlPTkwMDUwJnV0bV9jb250ZW50PW5ld3NsZXR0ZXJhZCZ1dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aI806a9702> 
+
+ 
+
+Update preferences https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9teS1hY2NvdW50Lz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aCa497641c
+Help https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9oZWxwLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aC7303c299
+Contact us https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9jb250YWN0LXVzLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aDe35fca61
+
+View in browser https://link.newscientist.com/view/650341d3fb71d143ed05b48ak0hys.8a6e/4be58274
+
+This email has been sent to tanjim.ashraf.doer.bp@gmail.com. 
+Unsubscribe from the Weekly newsletter https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS91bnN1YnNjcmliZS8_ZW1haWw9dGFuamltLmFzaHJhZi5kb2VyLmJwJTQwZ21haWwuY29tJm5ld3NsZXR0ZXI9TlNORVcmc2FpbHRocnVfdmFyc1t2YXJfbnNuZXddPWZhbHNlJnV0bV9zb3VyY2U9bnNuZXc/650341d3fb71d143ed05b48aC958a5dc2
+
+Do not reply directly to this email. If you have an enquiry, please contact us using the relevant contact details listed here. https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9jb250YWN0LXVzLz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aEe35fca61
+
+Copyright © New Scientist Ltd
+
+Registered Office: 9 Derry Street, London, W8 5HY
+Registered in England. No.10644366
+Australian mailing address: PO Box 2315, Strawberry Hills, NSW 2012, Australia
+Registered in Australia. ABN 22 621 413 170
+
+Privacy Policy https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9wcml2YWN5Lz91dG1fc291cmNlPW5zbmV3/650341d3fb71d143ed05b48aC9324f82c
+Terms & Conditions https://link.newscientist.com/click/33615604.386438/aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS90ZXJtcy8_dXRtX3NvdXJjZT1uc25ldw/650341d3fb71d143ed05b48aC92b59d6a
+
+
+
+
+
+
+
+
+
+
+Email no: 4 
+Date: Thu, 07 Dec 2023 19:11:56 +0000
+From: "Workona" <welcome@workona.com>
+Subject: Streamline your tasks in the browser
+
+Content: 
+https://workona.com/0/
+
+https://workona.com/0/
+
+A lot of us keep tabs open for one simple reason: it helps us remember to-dos. But there's a better solution.
+Meet Workona Tasks.
+
+https://workona.com/tasks/tour/
+The best task manager for work in the browser
+Emails you need to respond to, docs waiting on your approval, articles to read…they can all be added as tasks. Now you're free to close your tabs without having to track them down later!
+
+Watch the video ▶️
+
+https://workona.com/training/videos/#tasks
+With Workona Tasks, you can:
+
+- Manage tasks without interrupting your flow
+- Add tasks directly to a space
+- Attach links or files to any task
+
+Add Workona Tasks → [Chrome](https://chrome.google.com/webstore/detail/workona-tasks/dneiffjipkkinmcpploifdknmhlmfbhc/) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/workona-tasks/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/workona-tasks/acakmlgmchfieleilainfahicnbbonjd)
+
+https://workona.com/0/
+
+You received this email because you signed up for [Workona](https://workona.com), an app that helps you organize your work in the browser. To stop receiving these emails, [unsubscribe](https://r.s2.email.workona.com/tr/un/snxTkQb9MUro17S9nRuUh_3OZK00aPQ4KdXSnvA52pB0eB9L3DBlwKbNdv8qPVeRKTqE_uzcs3ZU-cEf7zTsaGlobj3sxG7Nua4LXlT6aDnUK_Tu98TH0URjXB0vuC_EhdCVHnyht4bFuzW53XWv-446WGp_A32X1vCst-uU6tiXkl7D0IZiHCcRM1Z_Bu4dWMiA6xz1GkXV3oEWkGXhoTKo-jXVkxa46tWffFDdJLsLHi5PIiGE0IEeDdtMV6Xti7rvn5SYFmoaFBzH54k4VGheQvLPwTo5RrBm).
+© Workona Inc. 2261 Market Street #4455, San Francisco, CA 94114.
+
+
+
+
+
+
+
+
+
+
+
+
+Email no: 5 
+Date: Fri, 08 Dec 2023 01:30:00 +0000 (UTC)
+From: Medium Daily Digest <noreply@medium.com>
+Subject: Golden age of UX is over? | Michal Malewicz
+
+Content: 
+Stories for Tanjim Ashraf
+@tanjim.ashraf.doer.bp (https://medium.com/@tanjim.ashraf.doer.bp?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Become a member (https://medium.com/plans?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+
+Today's highlights
+
+Michal Malewicz (https://medium.com/@michalmalewicz?source=email-bd8b9bcb0b83-1701982294199-digest.reader--403e4ea1e753----0-99------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·7 min read
+
+Golden age of UX is over?
+
+We're living in a post-design era.
+
+Stefano Novelli (https://medium.com/@murdercode?source=email-bd8b9bcb0b83-1701982294199-digest.reader--0135b11407e5----1-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·8 min read
+
+Speed up your Laravel application up to 1000x (with FastCGI cache)
+
+Learn how to enhance Laravel application speed using FastCGI Cache for seamless performance optimization in…
+
+Jaydeep Patil (https://medium.com/@jaydeepvpatil225?source=email-bd8b9bcb0b83-1701982294199-digest.reader--6960950b3c6c----2-99------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·11 min read
+
+Auth Guards in Angular
+
+In this article, we are going to discuss the basics of auth guards and step-by-step implementation with the…
+
+Tiger3080 (https://medium.com/@Tiger3080?source=email-bd8b9bcb0b83-1701982294199-digest.reader--c89125a9d6e7----3-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·3 min read
+
+STDIO2023 : Web 03 Great Wall of CookieWriteup
+
+Challenge :
+We need to set cookie: User=Admin to get the flag but something is blocking us.
+Author : Bankde
+
+Elaine Hilides (https://medium.com/@elainehilides?source=email-bd8b9bcb0b83-1701982294199-digest.reader-9c1a7e787501-3d39956ff84c----4-108------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+ in ILLUMINATION-Curated (https://medium.com/illumination-curated?source=email-bd8b9bcb0b83-1701982294199-digest.reader-9c1a7e787501-3d39956ff84c----4-108------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·5 min read
+
+Do Eating and Breathing Noises Drive You Crazy? There May Be a Reason
+
+You might have Misophonia, or you might be grumpy
+
+Krishna Yogi (https://medium.com/@krishnayogi?source=email-bd8b9bcb0b83-1701982294199-digest.reader-78d064101951-50904793ae07----5-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+ in Artificial Intelligence in Plain English (https://medium.com/ai-in-plain-english?source=email-bd8b9bcb0b83-1701982294199-digest.reader-78d064101951-50904793ae07----5-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·11 min read
+
+Building a question-answering system using LLM on your private data
+
+Building a Question-Answering System Using LLM on Your Private Data
+
+Introduction
+
+This article will explore…
+
+Builescu Daniel (https://medium.com/@danielbuilescu?source=email-bd8b9bcb0b83-1701982294199-digest.reader-78073def27b8-a3e8e354150c----6-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+ in Python in Plain English (https://medium.com/python-in-plain-english?source=email-bd8b9bcb0b83-1701982294199-digest.reader-78073def27b8-a3e8e354150c----6-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·15 min read
+
+Django Credit Card Fraud Detection with ML: A Tutorial
+
+Discover Django & ML integration in my friendly guide: Credit Card Fraud Detection made simple! Dive in and…
+
+Santiago González (https://medium.com/@xantygc?source=email-bd8b9bcb0b83-1701982294199-digest.reader--a8a17a2afaa3----7-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·3 min read
+
+Stop using Spring Boot to build Microservices
+
+Micronaut is a framework created by and for microservices, minimizing memory footprint and startup time…
+
+Matija Žiberna (https://medium.com/@matijazib?source=email-bd8b9bcb0b83-1701982294199-digest.reader-d1baaa8417a4-03fbcab254e4----8-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+ in Stackademic (https://medium.com/stackademic?source=email-bd8b9bcb0b83-1701982294199-digest.reader-d1baaa8417a4-03fbcab254e4----8-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·8 min read
+
+Setting Up Firebase Authentication with Next.js 13 App Router Using Server…
+
+Firebase is an efficient platform for adding authentication to web applications, while Next.js 13, with its…
+
+Adarsh Rai (https://medium.com/@adarshrai3011?source=email-bd8b9bcb0b83-1701982294199-digest.reader--ca94879b82e2----9-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·8 min read
+
+21 Pro JavaScript Tricks You Didn't Know: A Guide from Beginners to Pros
+
+JavaScript is a versatile and powerful programming language, but mastering it requires more than just knowing…
+
+SarahDev (https://medium.com/@sarahisdevs?source=email-bd8b9bcb0b83-1701982294199-digest.reader--2bc23ad16240----10-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·2 min read
+
+Automate Google Search using Selenium
+
+I'd be happy to provide you with a tutorial on how to automate Google Search using Selenium in Python…
+
+Ayush Thakur (https://medium.com/@ayush-thakur02?source=email-bd8b9bcb0b83-1701982294199-digest.reader--628f4b5021fd----11-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·5 min read
+
+Wait! What are Pipelines in Python?
+
+If you are a Python developer, you might have heard of the term pipeline. But what exactly is a pipeline and…
+
+Dimple Patel (https://medium.com/@dp3cloud?source=email-bd8b9bcb0b83-1701982294199-digest.reader-5da0267791b1-163a61c86dd2----12-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+ in Towards AWS (https://medium.com/towards-aws?source=email-bd8b9bcb0b83-1701982294199-digest.reader-5da0267791b1-163a61c86dd2----12-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·3 min read
+
+Using Docker and Nginx to host a custom webpage locally
+
+In the world of web development, creating and hosting a custom webpage is a fundamental task that often…
+
+Fotis Adamakis (https://medium.com/@fadamakis?source=email-bd8b9bcb0b83-1701982294199-digest.reader--0b46c55d9162----13-98------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·7 min read
+
+Supabase: Build in a Weekend, Scale to Millions
+
+I'm rarely impressed by a new technology. I think the term is called JS fatigue and after many years in the…
+
+Kritika Sharma (https://medium.com/@kritikasharmablog?source=email-bd8b9bcb0b83-1701982294199-digest.reader--7514d0dbd571----14-109------------------6d54145d_a228_4cf4_99cd_37fc7e648d12-1)
+·7 min read
+
+Complete SurveyJS with Angular Tutorial
+
+SurveyJS is an Open-Source JavaScript Form Builder Library.
+
+See more of what you like and less of what you don't.
+Control your recommendations (https://medium.com/me/missioncontrol?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+
+Read from anywhere.
+
+Sent by Medium (https://medium.com/?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+Unsubscribe (https://medium.com/me/email-settings/bd8b9bcb0b83/441fe23c8f42?type=social&source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+ from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/bd8b9bcb0b83/441fe23c8f42?type=social&preference=2&source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Help Center (https://help.medium.com/hc/en-us?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
+·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-bd8b9bcb0b83-1701982294199-digest.reader-------------------------6d54145d_a228_4cf4_99cd_37fc7e648d12)
 
 
 

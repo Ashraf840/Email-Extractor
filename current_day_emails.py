@@ -51,7 +51,7 @@ if items[0]:
                 # Process the email as needed
                 email_content = data[0][1].decode('utf-8')  # Assuming UTF-8 encoding
                 raw = email.message_from_bytes(data[0][1])
-                f1.write(f'Email no: {str(email_count)} \n')
+                f1.write(f'Email_no: {str(email_count)} \n')
                 f1.write('Date: ' + raw['Date'] + '\n')
                 f1.write('From: ' + raw['From'] + '\n')
                 f1.write('Subject: ' + raw['Subject'] + '\n')
