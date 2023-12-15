@@ -14,6 +14,7 @@ def latest_mail_reading_date():
             modified_date = modified_date.strftime('%d-%b-%Y')
             # print("Modified date:", modified_date)
             f1.write(modified_date)
+            # f.close()   # While using the "with" statement, explicitly defining the file closing is optional. The "with" statement ensures the file is properly closed.
             return modified_date
         else:
             current_date_time = dt.datetime.now().date()
@@ -21,7 +22,8 @@ def latest_mail_reading_date():
             # print("Empty!")
             # print("Current datetime:", current_date_time)
             f1.write(current_date_time)
+            # f.close()   # While using the "with" statement, explicitly defining the file closing is optional. The "with" statement ensures the file is properly closed.
             return current_date_time
-    f.close()
+        
 
 # print(latest_mail_reading_date())

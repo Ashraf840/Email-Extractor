@@ -35,7 +35,7 @@ class EmailExtractor:
         return dates
 
     def extract_emails(self, dates):
-        email_list = []
+        email_list = []     # NB: Might require to use pandas.series while working in big thing
         # dates = self.config_date()
         
         print("date:", dates)
