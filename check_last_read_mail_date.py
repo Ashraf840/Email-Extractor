@@ -2,6 +2,10 @@ import datetime as dt
 
 
 def latest_mail_reading_date():
+    """
+    This method is used to read to date in "07-Nov-2023" format. If the specified text file is found empty inside, then the current system date will be written into that file.
+    Othersise, it will re-write the previously defined date decrementing by 1 day, then it'll return that date.
+    """
     with open("gmail_time.txt") as f:
         latest_mail_reader_date = f.readlines()
         # print("Latest gmail reading time:", latest_mail_reader_date)

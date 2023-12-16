@@ -23,75 +23,74 @@ email_address="".join(ch for ch in email_address if ch.isalnum())       # Normal
 target_file = Path(f"./{email_address}.xlsx")
 
 if target_file.is_file():
-      print("Excel file is present")
+    print("Excel file is present")
 
-      ee = EmailExtractor("INBOX")
-      emails_list = ee.extract_emails(latest_mail_reading_date())
-      print("Email list length:", len(emails_list))
-      if len(emails_list) > 0:
-            # print("Use a for loop to add each email into the row of excel file!")
-            existing_dataset_file = f'./{email_address}.xlsx'
-            existing_df = pd.read_excel(existing_dataset_file, engine='openpyxl')   # Omit the sheet_param, since the sheet_name renamed as "Sheet1"
-            # TODO: Check the length of the exisiting dataframes length. Because a threshold will be set for the excel file, a new excel file (sequel of the prev excel file) will be created to store newly fetched emails.
-            # Extended TODO: The threshold would be determined as the sheets of the excel file. Both how many sheets can be hold, also based on the number of rows stored in each sheet. Normally there will be 12 sheets based on the 12 months of the year.
-            data_list = list()
-            for email in emails_list:
-                  UID, Date, From, Subject, Content = int(email['UID']), email['Date'], email['From'], email['Subject'], email['Content']
+    ee = EmailExtractor("INBOX")
+    emails_list = ee.extract_emails(latest_mail_reading_date())
+    print("Email list length:", len(emails_list))
+    if len(emails_list) > 0:
+        # print("Use a for loop to add each email into the row of excel file!")
+        existing_dataset_file = f'./{email_address}.xlsx'
+        existing_df = pd.read_excel(existing_dataset_file, engine='openpyxl')   # Omit the sheet_param, since the sheet_name renamed as "Sheet1"
+        # TODO: Check the length of the exisiting dataframes length. Because a threshold will be set for the excel file, a new excel file (sequel of the prev excel file) will be created to store newly fetched emails.
+        # Extended TODO: The threshold would be determined as the sheets of the excel file. Both how many sheets can be hold, also based on the number of rows stored in each sheet. Normally there will be 12 sheets based on the 12 months of the year.
+        data_list = list()
+        for email in emails_list:
+                UID, Date, From, Subject, Content = int(email['UID']), email['Date'], email['From'], email['Subject'], email['Content']
 
-                  new_data = {
-                        'Email Uid': UID,
-                        'Date': Date,
-                        'From': From,
-                        'Subject': Subject,
-                        'Content': Content,
-                  }
-                  data_list.append(new_data)
+                new_data = {
+                    'Email Uid': UID,
+                    'Date': Date,
+                    'From': From,
+                    'Subject': Subject,
+                    'Content': Content,
+                }
+                data_list.append(new_data)
 
-            new_df = pd.DataFrame(data_list)
-            concatenated_df = pd.concat([existing_df, new_df], ignore_index=True)   # What is "ignore_index=True" param?
-            concatenated_df.to_excel(existing_dataset_file, index=False)
+        new_df = pd.DataFrame(data_list)
+        concatenated_df = pd.concat([existing_df, new_df], ignore_index=True)   # What is "ignore_index=True" param?
+        concatenated_df.to_excel(existing_dataset_file, index=False)
 else:
-      print("Excel file is not present")
-      # filepath = f"/home/robin/Documents/Tanjim/Miscellaneous Projects/gmail_reader/{email_address}.xlsx"
-      wb = openpyxl.Workbook()
+    print("Excel file is not present")
+    # filepath = f"/home/robin/Documents/Tanjim/Miscellaneous Projects/gmail_reader/{email_address}.xlsx"
+    wb = openpyxl.Workbook()
 
-      sheet = wb.create_sheet(index=0, title="Gmail")
-      if 'Sheet' in wb.sheetnames:
-            # print('Sheet exists')
-            del wb['Sheet']
+    sheet = wb.create_sheet(index=0, title="Gmail")
+    if 'Sheet' in wb.sheetnames:
+        # print('Sheet exists')
+        del wb['Sheet']
 
-      sheet["A1"] = "Email Uid"
-      sheet["B1"] = "Date"
-      sheet["C1"] = "From"
-      sheet["D1"] = "Subject"
-      sheet["E1"] = "Content"
+    sheet["A1"] = "Email Uid"
+    sheet["B1"] = "Date"
+    sheet["C1"] = "From"
+    sheet["D1"] = "Subject"
+    sheet["E1"] = "Content"
 
-      wb.save(target_file)
+    wb.save(target_file)
 
 
-      ee = EmailExtractor("INBOX")
-      emails_list = ee.extract_emails(latest_mail_reading_date())
-      print("Email list length:", len(emails_list))
-      if len(emails_list) > 0:
-            # print("Use a for loop to add each email into the row of excel file!")
-            existing_dataset_file = f'./{email_address}.xlsx'
-            existing_df = pd.read_excel(existing_dataset_file, engine='openpyxl')   # Omit the sheet_param, since the sheet_name renamed as "Sheet1"
-            data_list = list()
-            for email in emails_list:
-                  UID, Date, From, Subject, Content = int(email['UID']), email['Date'], email['From'], email['Subject'], email['Content']
-                  new_data = {
-                        'Email Uid': UID,
-                        'Date': Date,
-                        'From': From,
-                        'Subject': Subject,
-                        'Content': Content,
-                  }
-                  data_list.append(new_data)
+    ee = EmailExtractor("INBOX")
+    emails_list = ee.extract_emails(latest_mail_reading_date())
+    print("Email list length:", len(emails_list))
+    if len(emails_list) > 0:
+        # print("Use a for loop to add each email into the row of excel file!")
+        existing_dataset_file = f'./{email_address}.xlsx'
+        existing_df = pd.read_excel(existing_dataset_file, engine='openpyxl')   # Omit the sheet_param, since the sheet_name renamed as "Sheet1"
+        data_list = list()
+        for email in emails_list:
+                UID, Date, From, Subject, Content = int(email['UID']), email['Date'], email['From'], email['Subject'], email['Content']
+                new_data = {
+                    'Email Uid': UID,
+                    'Date': Date,
+                    'From': From,
+                    'Subject': Subject,
+                    'Content': Content,
+                }
+                data_list.append(new_data)
 
-            new_df = pd.DataFrame(data_list)
-            concatenated_df = pd.concat([existing_df, new_df], ignore_index=True)
-            concatenated_df.to_excel(existing_dataset_file, index=False)
+        new_df = pd.DataFrame(data_list)
+        concatenated_df = pd.concat([existing_df, new_df], ignore_index=True)
+        concatenated_df.to_excel(existing_dataset_file, index=False)
 end = timer()
-print(f"Execution time: {2*(end - start)} seconds")
-
+print(f"Execution time: {(end - start)} seconds")
 
